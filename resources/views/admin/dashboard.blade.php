@@ -16,7 +16,7 @@
 @endsection
 @section('contents')
     <div class="page-heading">
-        <h3>Swahiba Ventures Jamii Statistics</h3>
+        <h3>Swahiba Ventures Statistics</h3>
     </div>
     <div class="page-content">
         <section class="row">
